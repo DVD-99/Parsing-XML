@@ -11,7 +11,7 @@ xmltodict
 sys
 ```
 
-```testxml.xml``` is the input file with four branches and two sub-branches and in the ```testoutxml.xml``` we remove a branch with a sub-branch and add a different branch.
+```testxml.xml``` is the input file with four branches and two sub-branches and once the program ran, it saves in the file ```testoutxml.xml``` where it removes a branch with a sub-branch and add a different branch.
 
 This program displays each root in the XML file. It even helps convert into a dictionary or JSON 
 
